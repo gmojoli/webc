@@ -6,4 +6,4 @@
 #
 # This file should contain exactly one non-comment line, which is
 # inserted into the "append" line of the bootloader config.
-boot=live skipconfig quiet splash
+boot=live skipconfig quiet splash http_proxy=http://192.168.157.1:3128 homepage=http://webopac.csbno.net noblank chrome=webcnoaddressbar locale=it xkb=-layout%20it kioskresetstation=60 00 22 * * * root poweroff
