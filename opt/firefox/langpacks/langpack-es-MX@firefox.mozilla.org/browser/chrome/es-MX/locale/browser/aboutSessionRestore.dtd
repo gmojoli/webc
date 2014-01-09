@@ -1,0 +1,27 @@
+<!ENTITY restorepage.tabtitle "Restaurar sesión">
+<!ENTITY restorepage.errorTitle "Bueno, esto es embarazoso.">
+<!ENTITY restorepage.problemDesc "&brandShortName; tiene problemas para recuperar tus pestañas y ventanas. Comunmente ocurre por una página abierta recientemente.">
+<!ENTITY restorepage.tryThis "Puedes intentar:">
+<!ENTITY restorepage.restoreSome "Desmarcar una o más pestañas que pudieron causar el problema">
+<!ENTITY restorepage.startNew "Iniciar una sesión nueva">
+<!ENTITY restorepage.tryagainButton "Restaurar">
+<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.cancelButton "Iniciar nueva sesión">
+<!ENTITY restorepage.cancel.access "S">
+<!ENTITY restorepage.restoreHeader "Restaurar">
+<!ENTITY restorepage.listHeader "Ventanas y pestañas">
+<!ENTITY restorepage.windowLabel "Ventana &#037;S">
+
+<!ENTITY restorepage.close.access   "C">
+<!ENTITY restorepage.closeButton    "Close">
+<!ENTITY welcomeback.pageInfo       "&brandShortName; successfully reset your profile. Below is a list of windows and tabs you had open; you can restore them or start with a clean slate.">
+
+<!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
+     expressing joy that the user has successfully migrated their stuff and hope
+     that now they have a better experience.  -->
+<!ENTITY welcomeback.pageTitle      "Welcome Back!">
+
+
+<!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
+     not for about:sessionstore -->
+<!ENTITY welcomeback.tabtitle       "Welcome Back!">

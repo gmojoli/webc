@@ -1,0 +1,4 @@
+TARGETS = networking pulseaudio nvidia-kernel cron cups plymouth
+INTERACTIVE =
+cups: networking
+plymouth: networking pulseaudio cups nvidia-kernel cron

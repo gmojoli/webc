@@ -1,0 +1,6 @@
+b3924f03b843e6a3c35dbc7ffdaf3f95  usr/bin/inotifywait
+c72fb4cbdc01bb70fa748cdbfb38abf3  usr/bin/inotifywatch
+a36c95794c6aea75ca23580d9277f32e  usr/share/doc/inotify-tools/changelog.Debian.gz
+21c5f73c830a2494dd752e5c4f5886ce  usr/share/doc/inotify-tools/copyright
+7448117ad8a2a4687185b092edf45bcd  usr/share/man/man1/inotifywait.1.gz
+c18d6e8b35e582b29260ff2aa4048815  usr/share/man/man1/inotifywatch.1.gz
